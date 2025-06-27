@@ -29,3 +29,25 @@
 
 **Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
 📧 alihydershar688@example.com
+
+
+### 📘 Day 4 Report – learned basic html structure
+
+**Repository:** `week1/day2`  
+**Date:** June 26, 2025  
+**Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
+📧 hamzarafiqueawan9@gmail.com  
+
+**Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
+📧 alihydershar688@example.com
+
+
+### 📘 Day 4 Report – created a website usign html and css
+
+**Repository:** `week1/day2`  
+**Date:** June 27, 2025  
+**Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
+📧 hamzarafiqueawan9@gmail.com  
+
+**Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
+📧 alihydershar688@example.com
